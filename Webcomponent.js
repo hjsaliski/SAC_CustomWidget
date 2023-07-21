@@ -1,7 +1,7 @@
 (function () {
     let tmpl = document.createElement('template');
     tmpl.innerHTML =
-        '<label for="Hello">Click</label>'
+    `<button type="button" id="myBtn">Dumb Button</button>` ;
    
     class PerformanceHelp extends HTMLElement {
         constructor() {
