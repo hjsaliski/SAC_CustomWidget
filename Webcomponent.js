@@ -1,8 +1,7 @@
 (function () {
     let tmpl = document.createElement('template');
     tmpl.innerHTML =
-        <button for="Hello">Helper Button:</button>
-        <input type="button" id="Hello" name="Hello"> 
+        <label for="Hello">Helper Button</label>
    
     class PerformanceHelp extends HTMLElement {
         constructor() {
