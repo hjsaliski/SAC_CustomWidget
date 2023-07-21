@@ -1,7 +1,7 @@
 (function () {
     let tmpl = document.createElement('template');
     tmpl.innerHTML =
-    `<button type="button" id="myBtn">Dumb Button</button>` ;
+    `<button type="button" id="myBtn">Im having so many issues with this Button</button>` ;
    
     class PerformanceHelp extends HTMLElement {
         constructor() {
@@ -21,7 +21,7 @@
         }
 
         fireChanged() {
-            console.log("OnClick");     
+            console.log("OnClick Triggered");     
             
         }        
         
