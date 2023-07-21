@@ -7,7 +7,7 @@
 	"icon": "https://hjsaliski.github.io/New folder/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
-	"license": "1.0",
+	"license": "",
 	"webcomponents": [
 		{
 			"kind": "main",
