@@ -33,7 +33,7 @@
 	],
 	"properties": {
 		"value": {
-			"type": "string",
+			"type": "number",
 			"description": "Gauge value",
 			"default": "0"
 		},
