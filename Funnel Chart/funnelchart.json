@@ -11,7 +11,7 @@
         {
             "kind": "main",
             "tag": "github-sap-funnel-chart",
-            "url": "hjsaliski.github.io/Funnel Chart/funnelchart.json",
+            "url": "hjsaliski.github.io/Funnel Chart/funnelchart.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
